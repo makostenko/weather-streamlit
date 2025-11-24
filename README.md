@@ -26,7 +26,7 @@ If you see the message "This app has gone to sleep due to inactivity. Would you 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/allenphos/streamlit-weather-demo.git
+   git clone https://github.com/makostenko/weather-streamlit.git
    cd streamlit-weather-demo
    ```
 
