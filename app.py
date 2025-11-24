@@ -16,7 +16,7 @@ num_cols   = bundle["numeric_cols"]
 cat_cols   = bundle["categorical_cols"]
 enc_cols   = bundle["encoded_cols"]
 
-st.image('images/aus_cloud_vis_20240923.gif')
+st.image('images/giphy.gif')
 
 st.header("Enter Weather Parameters:")
 
